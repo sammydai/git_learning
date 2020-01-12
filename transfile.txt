@@ -1,1 +1,2 @@
 This is transfer file test now!
+this is txt file
